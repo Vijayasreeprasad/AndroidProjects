@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RIDDLE ME!!</string>
+
+    <!-- Emotion subscription key -->
+
+    <string name="subscription_key">2e263b318147472386fb86a616c7abfd</string>
+
+    <!-- Face subscription key -->
+
+    <string name="faceSubscription_key">45165662a58546cdad61d9d064d1977b</string>
+
+    <!-- Display strings -->
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your two subscription keys for Emotion API/Face API to source file \"app/res/values/strings.xml\" to enable Emotion API and Face API calls.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_analyze">AnalyzeActivity</string>
+    <string name="title_activity_recognize">RecognizeActivity</string>
+    <string name="title_activity_thumbnail">ThumbnailActivity</string>
+    <string name="camera">Camera</string>
+    <string name="name_riddle">Riddles</string>
+    <!-- Select image activity -->
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">From Gallery</string>
+    <string name="riddle_title_hint">Enter a title for the Riddle.</string>
+    <string name="riddle_title_label">Title</string>
+    <string name="riddle_used_label">Solved</string>
+    <string name="subtitle_format">%1$d riddles</string>
+</resources>

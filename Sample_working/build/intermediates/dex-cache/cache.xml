@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\d210b7544ec52f1e673ad4d4447aeab3703a9aa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_40113690528c82996136dde202d3aab35eff0b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\f2cf62a1299f2d6215d685e1e2b02a706e1b96b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_dfa7e64c2969f9123892e981802a86eba6e9a46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\189950f6c154b9e88e8e0da6c419d57663371f78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_7826703842150070903234180f24d36a1a5033e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\14add19dccbce08b0ac2a1f36ea2bf81187fc891\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_2a0e853052a8db13aeff07056863af8c24ed9b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\bdfd2e05a5ea8f7b0ea9b69c87fb01054ae9d775\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_2bf97c3b76fbf2560aab25df3636b0238bc91813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\b6c7985ddee6afaa6cc88ed301af14239f43854f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_7c712dbb69149e60077a39513de140f4ca13b695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\b86cc6784aa27ad8616f8f37f3bebf200ea8b4ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_96c2c08d78f034b95d1981d7f720b1d6ee8060f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viji\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\gson-2.5_3d83cde7b7bdca7f1f480bbff840e4c40da0b63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\9f3302b3843b31445ec2d1ac4d4ebfdb8ca01c27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_ee8460ffad29310f820a0252348180636c59c8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_fab63307c70246646cf83a8151e63b4a4292d90e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\14add19dccbce08b0ac2a1f36ea2bf81187fc891\output\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\commons-io-2.4_c647267413685943dde2fdcfbd359f52f4a68927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\0ed8ae60883126737620964c502db9f7233c021d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_5ff34034a9fe67992d2d24ed876f226eacef1bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\gson-2.5_3d83cde7b7bdca7f1f480bbff840e4c40da0b63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\7a3e6cae6b749c85d8a4453bf2e2d47fb7465576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_2fac89ed071749f6c7a43ac1491d16beff2e1332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viji\.android\build-cache\cd4244560eca272f22602323689c7cd931b31dd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Viji\AndroidStudioProjects\Sample_working\app\build\intermediates\pre-dexed\debug\classes_0b8206c837196718084e2243fc940ca93ce14f95.jar" />
+    </item>
+
+</items>
